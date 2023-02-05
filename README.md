@@ -1,4 +1,4 @@
-# ml-experiments
+# ML Experiments and Data Analysis
 
 Various experiments with machine learning and data science will be stored here
 
